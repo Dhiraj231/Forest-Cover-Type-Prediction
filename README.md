@@ -68,7 +68,5 @@ Kaggle for providing the dataset.
 
 Various online resources and research papers on machine learning and ensemble methods.
 
-Contact
-
 Happy coding!
 
